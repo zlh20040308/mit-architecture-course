@@ -1,3 +1,9 @@
 [submodule "6.175-lab1"]
 	path = 6.175-lab1
 	url = git@github.com:zlh20040308/6.175-lab1.git
+[submodule "6.175-lab2"]
+	path = 6.175-lab2
+	url = git@github.com:zlh20040308/6.175-lab2.git
+[submodule "6.175-lab3"]
+	path = 6.175-lab3
+	url = git@github.com:zlh20040308/6.175-lab3.git
